@@ -1,0 +1,16 @@
+C:\Users\ProGamer\source\repos\LabWorksWinForms\LabWorksWinForms\obj\Debug\net8.0-windows\LabWorksWinForms.MainForm.resources
+C:\Users\ProGamer\source\repos\LabWorksWinForms\LabWorksWinForms\obj\Debug\net8.0-windows\LabWorksWinForms.csproj.GenerateResource.cache
+C:\Users\ProGamer\source\repos\LabWorksWinForms\LabWorksWinForms\obj\Debug\net8.0-windows\LabWorksWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ProGamer\source\repos\LabWorksWinForms\LabWorksWinForms\obj\Debug\net8.0-windows\LabWorksWinForms.AssemblyInfoInputs.cache
+C:\Users\ProGamer\source\repos\LabWorksWinForms\LabWorksWinForms\obj\Debug\net8.0-windows\LabWorksWinForms.AssemblyInfo.cs
+C:\Users\ProGamer\source\repos\LabWorksWinForms\LabWorksWinForms\obj\Debug\net8.0-windows\LabWorksWinForms.csproj.CoreCompileInputs.cache
+C:\Users\ProGamer\source\repos\LabWorksWinForms\LabWorksWinForms\bin\Debug\net8.0-windows\LabWorksWinForms.exe
+C:\Users\ProGamer\source\repos\LabWorksWinForms\LabWorksWinForms\bin\Debug\net8.0-windows\LabWorksWinForms.deps.json
+C:\Users\ProGamer\source\repos\LabWorksWinForms\LabWorksWinForms\bin\Debug\net8.0-windows\LabWorksWinForms.runtimeconfig.json
+C:\Users\ProGamer\source\repos\LabWorksWinForms\LabWorksWinForms\bin\Debug\net8.0-windows\LabWorksWinForms.dll
+C:\Users\ProGamer\source\repos\LabWorksWinForms\LabWorksWinForms\bin\Debug\net8.0-windows\LabWorksWinForms.pdb
+C:\Users\ProGamer\source\repos\LabWorksWinForms\LabWorksWinForms\obj\Debug\net8.0-windows\LabWorksWinForms.dll
+C:\Users\ProGamer\source\repos\LabWorksWinForms\LabWorksWinForms\obj\Debug\net8.0-windows\refint\LabWorksWinForms.dll
+C:\Users\ProGamer\source\repos\LabWorksWinForms\LabWorksWinForms\obj\Debug\net8.0-windows\LabWorksWinForms.pdb
+C:\Users\ProGamer\source\repos\LabWorksWinForms\LabWorksWinForms\obj\Debug\net8.0-windows\LabWorksWinForms.genruntimeconfig.cache
+C:\Users\ProGamer\source\repos\LabWorksWinForms\LabWorksWinForms\obj\Debug\net8.0-windows\ref\LabWorksWinForms.dll
